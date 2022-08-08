@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	margin-top: .2rem;
+	margin-bottom: .2rem;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+.pag-tabela {
+	margin-top: .5rem;
+	margin-bottom: .2rem;
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+h2 {
+	margin-top: .2rem;
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 1.5rem;
+	font-weight: 500;
+}
+
+h4 {
+	margin-left: 2%;
+	font-family: Georgia, serif;
+}
+
+#sidebar-nav {
+	width: 160px;
+}
+
+hr {
+	margin-left: .5rem;	
+	margin-right: .5rem;
+	background-color: #000000;	
+}
+
+.img {
+	text-align: center;
+}
+
+#mundi {
+	text-align: center;
+	width: 58rem;
+	height: 35rem;
+}
+
+.informacoes {
+	margin-top: 2rem;
+}
+
+.inform {
+	margin-top: 2rem;
+	font-family: Georgia, serif;
+	font-size: 1.2rem;
+	font-weight: 500;
+}
+
+.return{
+	right: 2rem;
+	bottom: 1rem;
+	position: fixed;
+}
+
+.return i{
+	margin-right: 1.5rem;
+	color: #000000;
+	font-size: 3rem;
+}
+
+.perfil {
+	margin-left: 30%;
+	font-size: 2rem;
+	color: #0000FF;
+}
+
+#perfilhr {
+	margin-left: 30%;
+	border: none;
+	height: 2px;
+	background-color: #000000;
+}
+
+#conta {
+	font-size: 5rem;	
+}
+
+.user {
+	margin-left: 30%;
+	margin-top: 2%;
+	font-family: Verdana, serif;
+	font-size: 1.2rem;
+}
