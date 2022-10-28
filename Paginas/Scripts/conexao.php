@@ -1,7 +1,7 @@
 <?php
 	/*function connect() {
 
-	    $conexao = mysqli_connect("localhost", "root", "Password07*", "world");
+	    $conexao = mysqli_connect("localhost", "root", "", "world");
 
 	    if (mysqli_connect_errno()) {
 	        echo "Não foi possível conectar ao banco de dados: " . mysqli_connect_error();
