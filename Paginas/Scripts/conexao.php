@@ -13,7 +13,7 @@
 
 	$server = "localhost";
 	$user = "root";
-	$pass = "Password07*";
+	$pass = "";
 	$bd = "world";
 
 	if ($conexao = mysqli_connect($server, $user, $pass, $bd)) {
